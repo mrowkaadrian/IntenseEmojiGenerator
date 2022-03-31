@@ -5,6 +5,7 @@ Simple python script for creating **intense** emoji out of normal, *boring* png 
 ### Requirements:
 
 * Python3 installed
+* Installed `imageio` and `opencv-python` (through `pip` for example)
 * You need to have emoji _png_ file with transparent background
 
 ### Basic usage:
