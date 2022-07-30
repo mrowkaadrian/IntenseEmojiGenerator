@@ -1,5 +1,8 @@
 # IntenseEmojiGenerator
 
+## Disclaimer!
+It is **not** working as intended due to dependency update. Images are not being saved without background!
+
 Simple python script for creating **intense** emoji out of normal, *boring* png file
 
 ### Requirements:
